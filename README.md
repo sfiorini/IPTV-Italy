@@ -16,6 +16,6 @@ Copy the link below and add it to your favorite `IPTV Player`.
 
 There are two [EPG](https://en.wikipedia.org/wiki/Electronic_program_guide) sources that work nicely with this list:
 
-  1. [DTT & SAT list](http://epg-guide.com/dttsat.xml) from `epg-guide`.
+  1. [DTT & SAT](http://epg-guide.com/dttsat.xml) from `epg-guide`.
 
-  2. [SkyTV Italy List](https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml) from `iptv-org`.
+  2. [SkyTV Italy](https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml) from `iptv-org`.
