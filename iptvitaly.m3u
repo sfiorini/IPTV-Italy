@@ -50,7 +50,7 @@ https://www.mytivu.it/Application/Channels/Cielo.php
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/tv2000.png" group-title="Altro",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7d.png" group-title="Altro",LA7d
+#EXTINF:-1 tvg-id="La7d.it" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7d.png" group-title="Altro",LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -109,7 +109,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/raisport+hd.png" group-title="Rai",Rai Sport+ HD
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/raisport+hd.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/raisport.png" group-title="Rai",Rai Sport
@@ -125,7 +125,7 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3
 https://eclexiafitms.streaming.mediaservices.windows.net/d4647546-f787-4cd1-a0a1-9d9c492c5bc0/f60ccca6-cca6-4bf8-b65d-47ceb9b3bbe9.ism/manifest(format=mpd-time-csf)
 #EXTINF:-1 tvg-id="ByoBlu.it" tvg-chno="262" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/byoblu.png" group-title="Altro", ByoBlu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/almatv.png" group-title="Altro",ALMA TV
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/almatv.png" group-title="Altro",ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radio105tv.png" group-title="Radio",Radio 105 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
