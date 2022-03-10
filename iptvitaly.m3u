@@ -17,14 +17,14 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="106" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/italia1.png" group-title="Mediaset",Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7.png" group-title="Altro",LA7
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="107" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7.png" group-title="Altro",LA7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="108" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/tv8.png" group-title="Sky",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="109" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/nove.png" group-title="Discovery",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="120" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="121" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai4.png" group-title="Rai",Rai 4
