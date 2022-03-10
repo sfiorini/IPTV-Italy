@@ -42,7 +42,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="125" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/raipremium.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:-1 tvg-id="Cielo.it" tvg-chno="126" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/cielo.png" group-title="Sky",TV8
+#EXTINF:-1 tvg-id="Cielo.it" tvg-chno="126" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/cielo.png" group-title="Sky",Cielo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://www.mytivu.it/Application/Channels/Cielo.php
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="127" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/twentyseven.png" group-title="Mediaset",Twenty Seven
